@@ -1,0 +1,330 @@
+@media screen and (max-width:500px) and (orientation : portrait),(max-width:750px) and (orientation : landscape){
+.content-wrapper {
+    bottom: 0;
+}
+
+.main-category .inner-content-header{
+	height:auto;
+}
+
+.main-category .inner-content {
+    top: 0;
+    z-index: 1;
+}
+
+#content .main-content {
+    float: none;
+    padding: 0;
+    width: auto;
+}
+
+.main-category .main-content .box-container-wrapper > a{
+	background:none no-repeat scroll center center transparent;
+    height: 100%;
+    right: 0;
+    width: 100%;
+	margin:	0 0 20px 0;
+}
+
+.main-category .main-content .box-container-wrapper img {
+    border-radius: 5px;
+	box-shadow:0 0 5px #a4a4a4;
+    right: 0;
+    top: 0;
+	margin: 0 auto;
+	float:none;
+}
+
+.main-category .main-content .box-container-wrapper .box-container {
+    float: none;
+    margin: 0;
+    width: 100%;
+}
+
+#content .onscreen-program h2.content-title {
+    display: block;
+    margin: 0 1rem 1rem;
+}
+
+#content .onscreen-program h2.content-title a{
+	font-family: DroidKufi-Bold;
+	font-size: 3.5rem;
+	font-weight: normal;
+	color: #709f3d;
+}
+
+#content .onscreen-program .content-date{
+    color: #666666;
+    font-family: DroidKufi-Regular;
+    font-size: 2rem;
+    font-weight: normal;
+    line-height: 3.5rem;
+    margin-bottom: 2rem;
+}
+
+#content .onscreen-program .content-paragraph p{
+	font-family: DroidKufi-Regular;
+	font-size: 2.5rem;
+	font-weight: normal;
+	line-height:4.0rem;
+	color: #000000;
+}
+
+.main-category .main-content .box-container-wrapper .content-paragraph .content-more {
+    color: #709f3d;
+    font-family: DroidKufi-Bold;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+.onscreen-program .content-paragraph {
+    margin: 0 1rem;
+}
+
+.programs-nav .nav-menu img{
+	display:none;
+}
+
+.programs-nav .nav-menu-content a{
+	display:block;
+}
+
+.programs-nav .inner-atfal-wa-bas{background:none no-repeat scroll 0 0 #4db0e4 !important}
+.programs-nav .inner-adventures-comedy{background:none no-repeat scroll 0 0 #f9b613 !important}
+.programs-nav .inner-nicxelodeon{background:none no-repeat scroll 0 0 #e58d00 !important}
+.programs-nav .inner-action{background:none no-repeat scroll 0 0 #2f80bd !important}
+.programs-nav .inner-mbc3-world{background:none no-repeat scroll 0 0 #1d5d13 !important}
+.programs-nav .inner-girls-section{background:none no-repeat scroll 0 0 #e56ea7 !important}
+.programs-nav .inner-farfashet-nojom{background:url(../img/responsive/farfashet-nojoom-nav-background.jpg) repeat scroll 0 0 transparent !important}
+.programs-nav .inner-all-programs{background:none no-repeat scroll 0 0 #339900 !important}
+
+.programs-nav .inner-atfal-wa-bas:hover{background:none no-repeat scroll 0 0 #3278b4 !important}
+.programs-nav .inner-adventures-comedy:hover{background:none no-repeat scroll 0 0 #e37d0c !important}
+.programs-nav .inner-nicxelodeon:hover{background:none no-repeat scroll 0 0 #b65d00 !important}
+.programs-nav .inner-action:hover{background:none no-repeat scroll 0 0 #1f5484 !important}
+.programs-nav .inner-mbc3-world:hover{background:none no-repeat scroll 0 0 #133d0c !important}
+.programs-nav .inner-girls-section:hover{background:none no-repeat scroll 0 0 #b64870 !important}
+.programs-nav .inner-farfashet-nojom:hover{background:url(../img/responsive/farfashet-nojoom-nav-background-hover.jpg) repeat scroll 0 0 transparent !important}
+.programs-nav .inner-all-programs:hover{background:none no-repeat scroll 0 0 #2a7e00 !important}
+
+.sub-navigation .programs-nav .nav-item-container {
+    border-bottom: 0 none;
+}
+
+.switch-between-content-and-extras .image-wrapper {
+    height: auto;
+    position: relative;
+    right: 0;
+    top: 0;
+    width: 100%;
+	margin: 5rem 0;
+}
+
+.switch-between-content-and-extras .image-wrapper img {
+    border-radius: 0;
+    height: auto;
+    position: relative;
+    right: 25%;
+    top: 0;
+    width: 195%;
+}
+
+
+.switch-between-content-and-extras .box-container-wrapper .content-title{
+    color: #709f3d;
+    font-family: DroidKufi-Bold;
+    font-size: 2.9rem;
+    font-weight: normal;
+}
+
+.switch-between-content-and-extras .content-time{
+    color: #666666;
+    font-family: DroidKufi-Regular;
+    font-size: 1.4rem;
+    font-weight: normal;
+	line-height: 2rem;
+}
+
+.switch-between-content-and-extras .content-paragraph p{
+    color: #000000;
+    font-family: DroidKufi-Regular;
+    font-size: 1.7rem;
+    font-weight: normal;
+	line-height: 4rem !important;
+	padding:0;
+}
+
+.switch-between-content-and-extras .character-render .content-paragraph p{
+    font-size: 2rem !important;
+}
+
+.switch-between-content-and-extras .character-render .content-paragraph p br{
+	margin-bottom:3rem;
+}
+
+.main-category .onscreen-program .box-container-footer {
+    bottom: 0;
+    position: relative;
+    right: 0;
+    text-align: center;
+	margin-top: 3rem;
+	border-bottom: 2px solid #ccddcc;
+}
+
+.main-category #content .main-content .box-container .box-container-footer .more-button {
+	line-height:5rem !important;
+	margin-left:4rem !important;
+}
+
+.main-content-full-width .inner-content, .switch-between-content-and-extras .inner-content {
+    border-left: 0 none;
+    border-right: 0 none;
+    float: none;
+    position: relative;
+    right: 0;
+    width: auto;
+}
+
+.main-category .main-content {
+    background: none repeat scroll 0 0 transparent;
+    border-left: 0 none;
+    border-right: 0 none;	
+}
+
+.main-category .main-content .program-content-listing .box-container-wrapper img {
+    border: 0 none;
+    border-radius: 10px;
+    box-shadow: 0 0 5px #a4a4a4;
+}
+
+.main-category .program-content-listing .teaser-group a,.main-category .program-content-listing .teaser-group h2 {
+    color: #333333;
+    font-family: DroidKufi-Regular;
+    font-size: 1.7rem;
+    font-weight: normal;
+}
+
+.main-category .main-content .box-container-wrapper .box-inner-container-wrapper a:hover h2 {
+    color: #333333;
+}
+
+
+.main-category .program-content-listing .four-items .box-inner-container {
+    min-height: 195px;
+}
+
+.program-listing-pagination:hover, .program-listing-pagination.active {
+    color: #333333;
+}
+
+.program-listing-pagination{
+    color: #42883c;
+    font-family: DroidKufi-Regular;
+    font-size: 1.7rem;
+    font-weight: bold;	
+}
+
+
+
+
+/**414**/
+.main-category .main-content .box-container-wrapper img {
+    height: auto;
+    width: 46.5rem;
+}
+
+.main-category .main-content .program-content-listing .box-container-wrapper img {
+    height: 14rem;
+    width: 20rem;
+}
+
+.main-category .navigation-wrapper-horizontal{
+     top: 0 !important;
+}
+
+.main-category .sub-navigation{
+	margin:3rem 1rem;
+}
+
+.main-category .main-content .box-container-wrapper .box-inner-container-wrapper a h2{
+    color: #333333 !important;
+    font-family: DroidKufi-Regular !important;
+    font-size: 2.4rem !important;
+    font-weight: normal !important;
+	line-height: 4rem;
+}
+
+.main-category .main-content .box-container-wrapper .box-container {
+    border-bottom: 0 none;
+	margin-bottom: 2rem;
+}
+
+.box-container-footer .program-listing-pagination {
+    font-size: 3rem;
+    padding-right: 1rem;
+}
+
+.onscreen-program time {
+    margin: 0 1rem;
+}
+
+.main-category .content-paragraph > p {
+    width: 99%;
+}
+
+.main-category .content-date, .main-category .content-paragraph > p {
+    width: 96%;
+}
+
+.main-category .box-container .box-container-footer {
+    bottom: 0;
+}
+
+.main-category .box-container.four-items .box-inner-container.main-banner-target {
+    border-bottom: 2px solid #ccddcc !important;
+    margin: 0 0 2rem !important;
+    padding: 0 0 2rem !important;
+}
+
+.program-content-listing .box-container-footer{
+	display:none
+}
+
+.program-content-listing .box-container-footer-responsive{
+	display:block;
+	margin: 0 2rem;
+}
+
+.program-content-listing .box-container-footer-responsive > a {
+    color: #42883c;
+    display: inline-block;
+    font-family: DroidKufi-Regular;
+    font-size: 3rem;
+    font-weight: normal;
+    line-height: 5rem;
+}
+
+.program-content-listing .box-container-footer-responsive .pagination-back {
+    background: url("../../mbc3/img/responsive/more-arrow-right.png") no-repeat scroll 13rem center / 2.2rem auto #99c345 !important;
+    float: right !important;
+    padding: 1rem 7rem 1rem 2rem !important;
+}
+
+.program-content-listing .box-container-footer-responsive .pagination-next {
+    float: left;
+	padding: 1rem 2rem 1rem 6.5rem !important;
+}
+
+.main-category .main-content .box-container-wrapper .box-inner-container-header {
+    background: none no-repeat scroll center center transparent;
+    height: auto;
+}
+
+.teaser-group .box-inner-container-wrapper .content-paragraph {
+    left: auto;
+    position: relative;
+    top: auto;
+}
+
+
+}

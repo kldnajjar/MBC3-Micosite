@@ -1,0 +1,7 @@
+@media screen and (max-width:500px) and (orientation : portrait),(max-width:750px) and (orientation : landscape){
+.main-content-full-width .container,
+.switch-between-content-and-extras .container {
+    background: url(../img/responsive/header.jpg) no-repeat scroll center 25rem / 100% auto transparent !important;
+}
+
+}
