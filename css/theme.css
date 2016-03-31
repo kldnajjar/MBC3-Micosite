@@ -79,6 +79,7 @@ h2.content-title,
 .teaser-group .box-inner-container-wrapper h2 { color:#ffffff }
 
 .content-wrapper { background-color:#001522; border:6px solid #2f2f2f; border-radius:5px; }
+.inner-content-footer{background: url(../img/footer.jpg) no-repeat scroll bottom center transparent;height: 679px;}
 .header-timing.web-timing {top:5rem; background-color: #800010}
 .header-timing.web-timing time {color:#fefefe;}
 .inner-content-header { height:270px; }
