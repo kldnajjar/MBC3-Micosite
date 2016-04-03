@@ -61,7 +61,7 @@ h2.content-title,
 .three-items .box-container-header h2 {padding-bottom: 0;}
 .box-container-footer .more-button{font-family: tanseek;font-size: 2.2rem;background-image: none;}
 .box-container.three-items .box-container-wrapper {padding-right: 7px;}
-.box-container.content-listing-group.three-items .box-container-wrapper {padding-right: 0;}
+.box-container.content-listing-group.three-items .box-container-wrapper {padding-right: 0;padding-top: 10px !important;}
 .box-container.character-render.three-items .box-container-wrapper {padding: 0 15px 0 0;}
 .box-container-wrapper {padding-top: 0 !important;}
 .box-container {margin: 0 0 20px;}
