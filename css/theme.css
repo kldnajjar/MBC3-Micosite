@@ -65,6 +65,7 @@ h2.content-title,
 .switch-between-content-and-extras .main-content .box-container.character-render {padding: 10px;  }
 .box-gallery-container .main_image_gallery div {font-size: 2.4rem;font-family: tanseek;}
 .characters-list-render {padding-top: 10px;}
+.main_image_gallery img {height: auto;width: 100%;}
 
 /** Style Changes **/
 .extras .nav-item-container h4 a,
